@@ -5,12 +5,12 @@
    작성이유: System.out.println 메소드 기능 테스트
 */
 
-class SystemOutPrintln
+class BlockComment
 {
 	public static void main(String[] args)
 	{
 		System.out.println(7);      /* 정수의 출력 */
-		System.out.println(3.15);
+		System.out.println(3.15); //수정된 파일
 		System.out.println("3+5=" + 8);	
 		System.out.println(3.15 + "는 실수입니다.");	
 		System.out.println("3+5" + "의 연산결과는 8입니다.");
